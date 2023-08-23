@@ -1,0 +1,368 @@
+
+	<h1>NBA Games Played on May 31, 1998</h1>
+        
+
+
+          
+      
+      
+      
+      
+      
+         
+            <div class="prevnext">
+  
+  <a href="/boxscores/?month=5&amp;day=30&amp;year=1998" class="button2 prev">May 30, 1998</a>
+  
+  <span class="button2 index">May 31, 1998</span>
+  <a href="/boxscores/?month=6&amp;day=1&amp;year=1998" class="button2 next">Jun 1, 1998</a>
+  
+</div>
+<form action="" method="get" class="srbasic" data-hs-cf-bound="true">
+<div class="fieldset linear">
+<div class="formfield">
+<select name="month" id="month" size="1" class="no_chosen">
+<option value="1">January
+</option><option value="2">February
+</option><option value="3">March
+</option><option value="4">April
+</option><option value="5" selected="">May
+</option><option value="6">June
+</option><option value="7">July
+</option><option value="8">August
+</option><option value="9">September
+</option><option value="10">October
+</option><option value="11">November
+</option><option value="12">December
+</option></select>
+</div>
+<div class="formfield">
+<select name="day" id="day" size="1" class="no_chosen">
+<option value="1">1
+</option><option value="2">2
+</option><option value="3">3
+</option><option value="4">4
+</option><option value="5">5
+</option><option value="6">6
+</option><option value="7">7
+</option><option value="8">8
+</option><option value="9">9
+</option><option value="10">10
+</option><option value="11">11
+</option><option value="12">12
+</option><option value="13">13
+</option><option value="14">14
+</option><option value="15">15
+</option><option value="16">16
+</option><option value="17">17
+</option><option value="18">18
+</option><option value="19">19
+</option><option value="20">20
+</option><option value="21">21
+</option><option value="22">22
+</option><option value="23">23
+</option><option value="24">24
+</option><option value="25">25
+</option><option value="26">26
+</option><option value="27">27
+</option><option value="28">28
+</option><option value="29">29
+</option><option value="30">30
+</option><option value="31" selected="">31
+</option></select>
+</div>
+<div class="formfield">
+<select name="year" id="year" size="1" class="no_chosen">
+<option value="1946">1946
+</option><option value="1947">1947
+</option><option value="1948">1948
+</option><option value="1949">1949
+</option><option value="1950">1950
+</option><option value="1951">1951
+</option><option value="1952">1952
+</option><option value="1953">1953
+</option><option value="1954">1954
+</option><option value="1955">1955
+</option><option value="1956">1956
+</option><option value="1957">1957
+</option><option value="1958">1958
+</option><option value="1959">1959
+</option><option value="1960">1960
+</option><option value="1961">1961
+</option><option value="1962">1962
+</option><option value="1963">1963
+</option><option value="1964">1964
+</option><option value="1965">1965
+</option><option value="1966">1966
+</option><option value="1967">1967
+</option><option value="1968">1968
+</option><option value="1969">1969
+</option><option value="1970">1970
+</option><option value="1971">1971
+</option><option value="1972">1972
+</option><option value="1973">1973
+</option><option value="1974">1974
+</option><option value="1975">1975
+</option><option value="1976">1976
+</option><option value="1977">1977
+</option><option value="1978">1978
+</option><option value="1979">1979
+</option><option value="1980">1980
+</option><option value="1981">1981
+</option><option value="1982">1982
+</option><option value="1983">1983
+</option><option value="1984">1984
+</option><option value="1985">1985
+</option><option value="1986">1986
+</option><option value="1987">1987
+</option><option value="1988">1988
+</option><option value="1989">1989
+</option><option value="1990">1990
+</option><option value="1991">1991
+</option><option value="1992">1992
+</option><option value="1993">1993
+</option><option value="1994">1994
+</option><option value="1995">1995
+</option><option value="1996">1996
+</option><option value="1997">1997
+</option><option value="1998" selected="">1998
+</option><option value="1999">1999
+</option><option value="2000">2000
+</option><option value="2001">2001
+</option><option value="2002">2002
+</option><option value="2003">2003
+</option><option value="2004">2004
+</option><option value="2005">2005
+</option><option value="2006">2006
+</option><option value="2007">2007
+</option><option value="2008">2008
+</option><option value="2009">2009
+</option><option value="2010">2010
+</option><option value="2011">2011
+</option><option value="2012">2012
+</option><option value="2013">2013
+</option><option value="2014">2014
+</option><option value="2015">2015
+</option><option value="2016">2016
+</option><option value="2017">2017
+</option><option value="2018">2018
+</option><option value="2019">2019
+</option><option value="2020">2020
+</option><option value="2021">2021
+</option><option value="2022">2022
+</option><option value="2023">2023
+</option></select>
+</div>
+<div class="formfield">
+<input type="submit" value="Find Games">
+</div>
+</div>
+</form>
+
+            
+            
+            
+         
+      
+         
+            <div class="section_heading"><h2>1 NBA Game</h2></div>
+<div class="game_summaries">
+   
+   
+      <div class="game_summary expanded nohover ">
+	<table class="teams">
+		<tbody>       
+		<tr class="loser">
+			<td><a href="/teams/IND/1998.html">Indiana</a></td>
+			<td class="right">83</td>
+			<td class="right gamelink">
+				<a href="/boxscores/199805310CHI.html">F<span class="no_mobile">inal</span></a>
+				
+			</td>
+		</tr>
+		<tr class="winner">
+			<td><a href="/teams/CHI/1998.html">Chicago</a></td>
+			<td class="right">88</td>
+			<td class="right">&nbsp;
+			</td>
+		</tr>
+		</tbody>
+	</table>
+	
+	<table>
+		<thead>
+		<tr>
+			<th></th><!-- the team labels -->
+			<th>1</th><th>2</th><th>3</th><th>4</th>
+		</tr>
+		</thead>
+		<tbody>
+		<tr>
+			<td><a href="/teams/IND/1998.html">Indiana</a>&nbsp;</td>
+			<td class="center">27</td><td class="center">18</td><td class="center">20</td><td class="center">18</td>
+		</tr>
+		<tr>
+			<td><a href="/teams/CHI/1998.html">Chicago</a>&nbsp;</td>
+			<td class="center">19</td><td class="center">29</td><td class="center">21</td><td class="center">19</td>
+		</tr>
+		</tbody>
+	</table>
+	<p class="links"><a href="/boxscores/199805310CHI.html">Box Score</a> | <a href="/boxscores/pbp/199805310CHI.html">Play-By-Play</a> | <a href="/boxscores/shot-chart/199805310CHI.html">Shot Chart</a></p>
+	<table class="stats">
+		<tbody>
+			<tr>
+				<td><strong>PTS</strong></td>
+				<td><a href="/players/j/jordami01.html">M. Jordan</a>-CHI</td>
+				<td class="right">28</td>
+			</tr>
+			<tr>
+				<td><strong>TRB</strong></td>
+				<td><a href="/players/p/pippesc01.html">S. Pippen</a>-CHI</td>
+				<td class="right">12</td>
+			</tr>
+		</tbody>
+	</table>
+
+</div>
+
+   
+</div>
+
+            
+            
+            
+         
+      
+         
+            <div class="standings_divs data_grid section_wrapper">
+
+<div>
+
+<div id="all_divs_standings_E" class="table_wrapper">
+
+<div class="section_heading assoc_divs_standings_E" id="divs_standings_E_sh">
+  <span class="section_anchor" id="divs_standings_E_link" data-label="Division Standings"></span><h2>Division Standings</h2>    <div class="section_heading_text">
+      <ul><li><small>* Playoff teams</small></li>
+      </ul>
+    </div>
+    		
+</div>
+<div class="topscroll_div assoc_divs_standings_E"><div class="topscroll_inner_div" style="width: 331px;"></div></div><div class="table_container is_setup" id="div_divs_standings_E">
+    
+    <table class="suppress_all sortable stats_table now_sortable sticky_table eq1 re1 le1" id="divs_standings_E" data-cols-to-freeze=",1">
+    <caption>Division Standings Table</caption>
+    
+
+   <colgroup><col><col><col><col><col><col><col></colgroup>
+   <thead>      
+      <tr>
+         <th aria-label="Eastern Conference" data-stat="team_name" scope="col" class=" poptip sort_default_asc left">Eastern Conference</th>
+         <th aria-label="Wins" data-stat="wins" scope="col" class=" poptip right" data-tip="Wins">W</th>
+         <th aria-label="Losses" data-stat="losses" scope="col" class=" poptip right" data-tip="Losses">L</th>
+         <th aria-label="Win-Loss Percentage" data-stat="win_loss_pct" scope="col" class=" poptip right" data-tip="Win-Loss Percentage">W/L%</th>
+         <th aria-label="GB" data-stat="gb" scope="col" class=" poptip sort_default_asc right" data-tip="Games Behind">GB</th>
+         <th aria-label="Points Per Game" data-stat="pts_per_g" scope="col" class=" poptip right" data-tip="Points Per Game">PS/G</th>
+         <th aria-label="Opponent Points Per Game" data-stat="opp_pts_per_g" scope="col" class=" poptip right" data-tip="Opponent Points Per Game">PA/G</th>
+      </tr>
+      </thead>
+<tbody><tr class="thead" data-row="0"><th colspan="7"><strong>Atlantic Division</strong></th></tr>
+<tr class="full_table" data-row="1"><th scope="row" class="left " data-stat="team_name" csk="0.329"><a href="/teams/MIA/1998.html">Miami Heat</a>*</th><td class="right " data-stat="wins">55</td><td class="right " data-stat="losses">27</td><td class="right " data-stat="win_loss_pct">.671</td><td class="right " data-stat="gb">—</td><td class="right " data-stat="pts_per_g">95.0</td><td class="right " data-stat="opp_pts_per_g">90.0</td></tr>
+<tr class="full_table" data-row="2"><th scope="row" class="left " data-stat="team_name" csk="0.476"><a href="/teams/NYK/1998.html">New York Knicks</a>*</th><td class="right " data-stat="wins">43</td><td class="right " data-stat="losses">39</td><td class="right " data-stat="win_loss_pct">.524</td><td class="right " data-stat="gb">12.0</td><td class="right " data-stat="pts_per_g">91.6</td><td class="right " data-stat="opp_pts_per_g">89.1</td></tr>
+<tr class="full_table" data-row="3"><th scope="row" class="left " data-stat="team_name" csk="0.476"><a href="/teams/NJN/1998.html">New Jersey Nets</a>*</th><td class="right " data-stat="wins">43</td><td class="right " data-stat="losses">39</td><td class="right " data-stat="win_loss_pct">.524</td><td class="right " data-stat="gb">12.0</td><td class="right " data-stat="pts_per_g">99.6</td><td class="right " data-stat="opp_pts_per_g">98.1</td></tr>
+<tr class="full_table" data-row="4"><th scope="row" class="left " data-stat="team_name" csk="0.488"><a href="/teams/WAS/1998.html">Washington Wizards</a></th><td class="right " data-stat="wins">42</td><td class="right " data-stat="losses">40</td><td class="right " data-stat="win_loss_pct">.512</td><td class="right " data-stat="gb">13.0</td><td class="right " data-stat="pts_per_g">97.2</td><td class="right " data-stat="opp_pts_per_g">96.6</td></tr>
+<tr class="full_table" data-row="5"><th scope="row" class="left " data-stat="team_name" csk="0.500"><a href="/teams/ORL/1998.html">Orlando Magic</a></th><td class="right " data-stat="wins">41</td><td class="right " data-stat="losses">41</td><td class="right " data-stat="win_loss_pct">.500</td><td class="right " data-stat="gb">14.0</td><td class="right " data-stat="pts_per_g">90.1</td><td class="right " data-stat="opp_pts_per_g">91.2</td></tr>
+<tr class="full_table" data-row="6"><th scope="row" class="left " data-stat="team_name" csk="0.561"><a href="/teams/BOS/1998.html">Boston Celtics</a></th><td class="right " data-stat="wins">36</td><td class="right " data-stat="losses">46</td><td class="right " data-stat="win_loss_pct">.439</td><td class="right " data-stat="gb">19.0</td><td class="right " data-stat="pts_per_g">95.9</td><td class="right " data-stat="opp_pts_per_g">98.5</td></tr>
+<tr class="full_table" data-row="7"><th scope="row" class="left " data-stat="team_name" csk="0.622"><a href="/teams/PHI/1998.html">Philadelphia 76ers</a></th><td class="right " data-stat="wins">31</td><td class="right " data-stat="losses">51</td><td class="right " data-stat="win_loss_pct">.378</td><td class="right " data-stat="gb">24.0</td><td class="right " data-stat="pts_per_g">93.3</td><td class="right " data-stat="opp_pts_per_g">95.7</td></tr>
+<tr class="thead" data-row="8"><th colspan="7"><strong>Central Division</strong></th></tr>
+<tr class="full_table" data-row="9"><th scope="row" class="left " data-stat="team_name" csk="0.244"><a href="/teams/CHI/1998.html">Chicago Bulls</a>*</th><td class="right " data-stat="wins">62</td><td class="right " data-stat="losses">20</td><td class="right " data-stat="win_loss_pct">.756</td><td class="right " data-stat="gb">—</td><td class="right " data-stat="pts_per_g">96.7</td><td class="right " data-stat="opp_pts_per_g">89.6</td></tr>
+<tr class="full_table" data-row="10"><th scope="row" class="left " data-stat="team_name" csk="0.293"><a href="/teams/IND/1998.html">Indiana Pacers</a>*</th><td class="right " data-stat="wins">58</td><td class="right " data-stat="losses">24</td><td class="right " data-stat="win_loss_pct">.707</td><td class="right " data-stat="gb">4.0</td><td class="right " data-stat="pts_per_g">96.0</td><td class="right " data-stat="opp_pts_per_g">89.9</td></tr>
+<tr class="full_table" data-row="11"><th scope="row" class="left " data-stat="team_name" csk="0.378"><a href="/teams/CHH/1998.html">Charlotte Hornets</a>*</th><td class="right " data-stat="wins">51</td><td class="right " data-stat="losses">31</td><td class="right " data-stat="win_loss_pct">.622</td><td class="right " data-stat="gb">11.0</td><td class="right " data-stat="pts_per_g">96.6</td><td class="right " data-stat="opp_pts_per_g">94.6</td></tr>
+<tr class="full_table" data-row="12"><th scope="row" class="left " data-stat="team_name" csk="0.390"><a href="/teams/ATL/1998.html">Atlanta Hawks</a>*</th><td class="right " data-stat="wins">50</td><td class="right " data-stat="losses">32</td><td class="right " data-stat="win_loss_pct">.610</td><td class="right " data-stat="gb">12.0</td><td class="right " data-stat="pts_per_g">95.9</td><td class="right " data-stat="opp_pts_per_g">92.3</td></tr>
+<tr class="full_table" data-row="13"><th scope="row" class="left " data-stat="team_name" csk="0.427"><a href="/teams/CLE/1998.html">Cleveland Cavaliers</a>*</th><td class="right " data-stat="wins">47</td><td class="right " data-stat="losses">35</td><td class="right " data-stat="win_loss_pct">.573</td><td class="right " data-stat="gb">15.0</td><td class="right " data-stat="pts_per_g">92.5</td><td class="right " data-stat="opp_pts_per_g">89.8</td></tr>
+<tr class="full_table" data-row="14"><th scope="row" class="left " data-stat="team_name" csk="0.549"><a href="/teams/DET/1998.html">Detroit Pistons</a></th><td class="right " data-stat="wins">37</td><td class="right " data-stat="losses">45</td><td class="right " data-stat="win_loss_pct">.451</td><td class="right " data-stat="gb">25.0</td><td class="right " data-stat="pts_per_g">94.2</td><td class="right " data-stat="opp_pts_per_g">92.6</td></tr>
+<tr class="full_table" data-row="15"><th scope="row" class="left " data-stat="team_name" csk="0.561"><a href="/teams/MIL/1998.html">Milwaukee Bucks</a></th><td class="right " data-stat="wins">36</td><td class="right " data-stat="losses">46</td><td class="right " data-stat="win_loss_pct">.439</td><td class="right " data-stat="gb">26.0</td><td class="right " data-stat="pts_per_g">94.5</td><td class="right " data-stat="opp_pts_per_g">96.4</td></tr>
+<tr class="full_table" data-row="16"><th scope="row" class="left " data-stat="team_name" csk="0.805"><a href="/teams/TOR/1998.html">Toronto Raptors</a></th><td class="right " data-stat="wins">16</td><td class="right " data-stat="losses">66</td><td class="right " data-stat="win_loss_pct">.195</td><td class="right " data-stat="gb">46.0</td><td class="right " data-stat="pts_per_g">94.9</td><td class="right " data-stat="opp_pts_per_g">104.2</td></tr>
+
+</tbody></table><style>#divs_standings_E td:nth-child(1):not(.not_sticky), #divs_standings_E th:nth-child(1):not(.not_sticky) { left: 0px; position: sticky; z-index: 1; }
+</style>
+
+
+</div>
+
+
+
+</div>
+</div>
+
+<div>
+
+<div id="all_divs_standings_W" class="table_wrapper">
+
+<div class="section_heading assoc_divs_standings_W" id="divs_standings_W_sh">
+  <span class="section_anchor" id="divs_standings_W_link" data-label="&nbsp;" data-no-inpage="1"></span><h2>&nbsp;</h2>    <div class="section_heading_text">
+      <ul><li>&nbsp;</li>
+      </ul>
+    </div>
+    		
+</div>
+<div class="topscroll_div assoc_divs_standings_W"><div class="topscroll_inner_div" style="width: 353px;"></div></div><div class="table_container is_setup" id="div_divs_standings_W">
+    
+    <table class="suppress_all sortable stats_table now_sortable sticky_table eq1 re1 le1" id="divs_standings_W" data-cols-to-freeze=",1">
+    <caption>&nbsp; Table</caption>
+    
+
+   <colgroup><col><col><col><col><col><col><col></colgroup>
+   <thead>      
+      <tr>
+         <th aria-label="Western Conference" data-stat="team_name" scope="col" class=" poptip sort_default_asc left">Western Conference</th>
+         <th aria-label="Wins" data-stat="wins" scope="col" class=" poptip right" data-tip="Wins">W</th>
+         <th aria-label="Losses" data-stat="losses" scope="col" class=" poptip right" data-tip="Losses">L</th>
+         <th aria-label="Win-Loss Percentage" data-stat="win_loss_pct" scope="col" class=" poptip right" data-tip="Win-Loss Percentage">W/L%</th>
+         <th aria-label="GB" data-stat="gb" scope="col" class=" poptip sort_default_asc right" data-tip="Games Behind">GB</th>
+         <th aria-label="Points Per Game" data-stat="pts_per_g" scope="col" class=" poptip right" data-tip="Points Per Game">PS/G</th>
+         <th aria-label="Opponent Points Per Game" data-stat="opp_pts_per_g" scope="col" class=" poptip right" data-tip="Opponent Points Per Game">PA/G</th>
+      </tr>
+      </thead>
+<tbody><tr class="thead" data-row="0"><th colspan="7"><strong>Midwest Division</strong></th></tr>
+<tr class="full_table" data-row="1"><th scope="row" class="left " data-stat="team_name" csk="0.244"><a href="/teams/UTA/1998.html">Utah Jazz</a>*</th><td class="right " data-stat="wins">62</td><td class="right " data-stat="losses">20</td><td class="right " data-stat="win_loss_pct">.756</td><td class="right " data-stat="gb">—</td><td class="right " data-stat="pts_per_g">101.0</td><td class="right " data-stat="opp_pts_per_g">94.4</td></tr>
+<tr class="full_table" data-row="2"><th scope="row" class="left " data-stat="team_name" csk="0.317"><a href="/teams/SAS/1998.html">San Antonio Spurs</a>*</th><td class="right " data-stat="wins">56</td><td class="right " data-stat="losses">26</td><td class="right " data-stat="win_loss_pct">.683</td><td class="right " data-stat="gb">6.0</td><td class="right " data-stat="pts_per_g">92.5</td><td class="right " data-stat="opp_pts_per_g">88.5</td></tr>
+<tr class="full_table" data-row="3"><th scope="row" class="left " data-stat="team_name" csk="0.451"><a href="/teams/MIN/1998.html">Minnesota Timberwolves</a>*</th><td class="right " data-stat="wins">45</td><td class="right " data-stat="losses">37</td><td class="right " data-stat="win_loss_pct">.549</td><td class="right " data-stat="gb">17.0</td><td class="right " data-stat="pts_per_g">101.1</td><td class="right " data-stat="opp_pts_per_g">100.4</td></tr>
+<tr class="full_table" data-row="4"><th scope="row" class="left " data-stat="team_name" csk="0.500"><a href="/teams/HOU/1998.html">Houston Rockets</a>*</th><td class="right " data-stat="wins">41</td><td class="right " data-stat="losses">41</td><td class="right " data-stat="win_loss_pct">.500</td><td class="right " data-stat="gb">21.0</td><td class="right " data-stat="pts_per_g">98.8</td><td class="right " data-stat="opp_pts_per_g">99.5</td></tr>
+<tr class="full_table" data-row="5"><th scope="row" class="left " data-stat="team_name" csk="0.756"><a href="/teams/DAL/1998.html">Dallas Mavericks</a></th><td class="right " data-stat="wins">20</td><td class="right " data-stat="losses">62</td><td class="right " data-stat="win_loss_pct">.244</td><td class="right " data-stat="gb">42.0</td><td class="right " data-stat="pts_per_g">91.4</td><td class="right " data-stat="opp_pts_per_g">97.5</td></tr>
+<tr class="full_table" data-row="6"><th scope="row" class="left " data-stat="team_name" csk="0.768"><a href="/teams/VAN/1998.html">Vancouver Grizzlies</a></th><td class="right " data-stat="wins">19</td><td class="right " data-stat="losses">63</td><td class="right " data-stat="win_loss_pct">.232</td><td class="right " data-stat="gb">43.0</td><td class="right " data-stat="pts_per_g">96.6</td><td class="right " data-stat="opp_pts_per_g">103.9</td></tr>
+<tr class="full_table" data-row="7"><th scope="row" class="left " data-stat="team_name" csk="0.866"><a href="/teams/DEN/1998.html">Denver Nuggets</a></th><td class="right " data-stat="wins">11</td><td class="right " data-stat="losses">71</td><td class="right " data-stat="win_loss_pct">.134</td><td class="right " data-stat="gb">51.0</td><td class="right " data-stat="pts_per_g">89.0</td><td class="right " data-stat="opp_pts_per_g">100.8</td></tr>
+<tr class="thead" data-row="8"><th colspan="7"><strong>Pacific Division</strong></th></tr>
+<tr class="full_table" data-row="9"><th scope="row" class="left " data-stat="team_name" csk="0.256"><a href="/teams/SEA/1998.html">Seattle SuperSonics</a>*</th><td class="right " data-stat="wins">61</td><td class="right " data-stat="losses">21</td><td class="right " data-stat="win_loss_pct">.744</td><td class="right " data-stat="gb">—</td><td class="right " data-stat="pts_per_g">100.6</td><td class="right " data-stat="opp_pts_per_g">93.4</td></tr>
+<tr class="full_table" data-row="10"><th scope="row" class="left " data-stat="team_name" csk="0.256"><a href="/teams/LAL/1998.html">Los Angeles Lakers</a>*</th><td class="right " data-stat="wins">61</td><td class="right " data-stat="losses">21</td><td class="right " data-stat="win_loss_pct">.744</td><td class="right " data-stat="gb">—</td><td class="right " data-stat="pts_per_g">105.5</td><td class="right " data-stat="opp_pts_per_g">97.8</td></tr>
+<tr class="full_table" data-row="11"><th scope="row" class="left " data-stat="team_name" csk="0.317"><a href="/teams/PHO/1998.html">Phoenix Suns</a>*</th><td class="right " data-stat="wins">56</td><td class="right " data-stat="losses">26</td><td class="right " data-stat="win_loss_pct">.683</td><td class="right " data-stat="gb">5.0</td><td class="right " data-stat="pts_per_g">99.6</td><td class="right " data-stat="opp_pts_per_g">94.4</td></tr>
+<tr class="full_table" data-row="12"><th scope="row" class="left " data-stat="team_name" csk="0.439"><a href="/teams/POR/1998.html">Portland Trail Blazers</a>*</th><td class="right " data-stat="wins">46</td><td class="right " data-stat="losses">36</td><td class="right " data-stat="win_loss_pct">.561</td><td class="right " data-stat="gb">15.0</td><td class="right " data-stat="pts_per_g">94.3</td><td class="right " data-stat="opp_pts_per_g">92.9</td></tr>
+<tr class="full_table" data-row="13"><th scope="row" class="left " data-stat="team_name" csk="0.671"><a href="/teams/SAC/1998.html">Sacramento Kings</a></th><td class="right " data-stat="wins">27</td><td class="right " data-stat="losses">55</td><td class="right " data-stat="win_loss_pct">.329</td><td class="right " data-stat="gb">34.0</td><td class="right " data-stat="pts_per_g">93.1</td><td class="right " data-stat="opp_pts_per_g">98.7</td></tr>
+<tr class="full_table" data-row="14"><th scope="row" class="left " data-stat="team_name" csk="0.768"><a href="/teams/GSW/1998.html">Golden State Warriors</a></th><td class="right " data-stat="wins">19</td><td class="right " data-stat="losses">63</td><td class="right " data-stat="win_loss_pct">.232</td><td class="right " data-stat="gb">42.0</td><td class="right " data-stat="pts_per_g">88.3</td><td class="right " data-stat="opp_pts_per_g">97.4</td></tr>
+<tr class="full_table" data-row="15"><th scope="row" class="left " data-stat="team_name" csk="0.793"><a href="/teams/LAC/1998.html">Los Angeles Clippers</a></th><td class="right " data-stat="wins">17</td><td class="right " data-stat="losses">65</td><td class="right " data-stat="win_loss_pct">.207</td><td class="right " data-stat="gb">44.0</td><td class="right " data-stat="pts_per_g">95.9</td><td class="right " data-stat="opp_pts_per_g">103.3</td></tr>
+
+
+
+</tbody></table><style>#divs_standings_W td:nth-child(1):not(.not_sticky), #divs_standings_W th:nth-child(1):not(.not_sticky) { left: 0px; position: sticky; z-index: 1; }
+</style>
+
+
+</div>
+
+
+
+</div>
+</div>
+</div>
+<div class="table_wrapper">Please note that teams tied in the standings are sorted by team name and no tiebreakers are being applied to these standings.</div>
+
+            
+            
+            
+         
+      
+
+<!-- global.nonempty_tables_num: 3, table_count: 3 -->
+   <!-- no Local/Partials/NoteBottom.tt2 -->
+   
+
+
